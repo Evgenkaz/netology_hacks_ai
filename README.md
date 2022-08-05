@@ -1,1 +1,2 @@
-# netology_hacks_ai
+## netology_hacks_ai
+Для воспроизведения обучения и получения предсказания последовательно запустить ноутбук netology_solution.ipynb
